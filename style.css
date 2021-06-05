@@ -51,6 +51,7 @@ div.content{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     border-radius: 2%;
+    align-items: center;
 }
 div.allstat{
     display: grid;
